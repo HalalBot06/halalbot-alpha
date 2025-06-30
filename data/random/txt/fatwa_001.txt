@@ -1,0 +1,357 @@
+Amount of Fidyah and Zakāt al-Fiṭr
+
+All praise is due to Allah, and may peace and salutations be upon the Prophet ﷺ.
+SUMMARY
+Fidyah amount is recommended to be $15 in 2025, and the Zakāt al-Fiṭr amount is recommended to be $10.
+DETAILS OF FIDYAH
+Fidyah is a payment made per missed fast if someone is not able to fast in Ramaḍān, and it is expected that they will never regain the ability to make up for the missed fasts — for example, if they are sick with no hope of recovery. If someone misses a fast due to being temporarily sick or traveling, they would make up the fast at a later date and they would not pay fidyah.
+The fidyah amount is “
+ṭaʻāmu miskīn
+” (Qur’ān, 2:184), or “feeding a poor person [each day].” Scholars of the past and present made efforts to determine an appropriate quantity based on the staple food items of their own time, place, and custom. The Mālikīs and Shāfiʻīs translated the amount into one
+mudd
+(or one-quarter
+ṣāʻ
+) of food, which is a volumetric measure roughly equivalent to 0.75 liters. The Ḥanafīs said that the quantity should vary based on the type of food (one
+ṣāʻ
+of dates, or one
+ṣāʻ
+of barley, or half a
+ṣāʻ
+of wheat)
+1
+. The Ḥanbalīs had a similar conclusion, determining that the fidyah should be one
+mudd
+of wheat, or half a
+ṣāʻ
+of dates or barley.
+2
+One approach to calculate the monetary value of fidyah is to convert these volumes of food into weights, and then use minimums, maximums, averages, or weighted averages to determine a dollar amount.
+The approach of the Fiqh Council of North America on this matter is to follow the spirit of the Qur’ānic injunction of “feeding a poor person [each day]”, which is to determine the average price of a reasonable amount of food for a person each day. Following a methodology similar to
+move.org
+, we looked at Numbeo’s estimated monthly food costs
+3
+in each state’s most populous city
+4
+and used these to determine the daily cost of food. The most current data (based on Western food types), retrieved on February 19, 2025, is as follows:
+Rank
+State
+Most populous city
+Monthly food cost
+Daily food cost
+1
+Hawaii
+Honolulu
+$612.07
+$19.74
+2
+New York
+New York City
+$565.39
+$18.24
+3
+Massachusetts
+Boston
+$531.90
+$17.16
+4
+Washington
+Seattle
+$528.00
+$17.03
+5
+Pennsylvania
+Philadelphia
+$520.33
+$16.78
+6
+Georgia
+Atlanta
+$516.93
+$16.68
+7
+District of Columbia
+Washington DC
+$498.99
+$16.10
+8
+Alaska
+Anchorage
+$497.61
+$16.05
+9
+South Carolina
+Charleston
+$497.54
+$16.04
+10
+North Dakota
+Fargo
+$496.64
+$16.02
+11
+Maine
+Portland
+$488.09
+$15.74
+12
+California
+Los Angeles
+$477.46
+$15.40
+13
+Delaware
+Wilmington
+$472.58
+$15.24
+14
+Minnesota
+Minneapolis
+$463.98
+$14.97
+15
+Alabama
+Birmingham
+$461.22
+$14.88
+16
+Tennessee
+Nashville
+$460.97
+$14.87
+17
+New Jersey
+Newark
+$459.23
+$14.81
+18
+Vermont
+Burlington
+$458.50
+$14.79
+19
+Illinois
+Chicago
+$458.08
+$14.78
+20
+Maryland
+Baltimore
+$456.74
+$14.73
+21
+Colorado
+Denver
+$449.93
+$14.51
+22
+Oregon
+Portland
+$440.98
+$14.23
+23
+Louisiana
+New Orleans
+$436.21
+$14.07
+24
+Ohio
+Columbus
+$435.92
+$14.06
+25
+South Dakota
+Sioux Falls
+$434.79
+$14.03
+26
+Michigan
+Detroit
+$431.18
+$13.91
+27
+Montana
+Billings
+$419.61
+$13.54
+28
+Nebraska
+Omaha
+$419.31
+$13.53
+29
+Connecticut
+Bridgeport
+$415.75
+$13.41
+30
+Rhode Island
+Providence
+$413.41
+$13.34
+31
+New Mexico
+Albuquerque
+$413.63
+$13.34
+32
+Wisconsin
+Milwaukee
+$410.25
+$13.23
+33
+Missouri
+Kansas City
+$407.11
+$13.13
+34
+New Hampshire
+Manchester
+$398.23
+$12.85
+35
+Kentucky
+Louisville
+$394.78
+$12.73
+36
+Florida
+Jacksonville
+$393.59
+$12.70
+37
+Utah
+Salt Lake City
+$390.86
+$12.61
+38
+Kansas
+Wichita
+$382.95
+$12.35
+39
+North Carolina
+Charlotte
+$379.26
+$12.23
+40
+Nevada
+Las Vegas
+$379.26
+$12.23
+41
+Oklahoma
+Oklahoma City
+$378.95
+$12.22
+42
+Texas
+Houston
+$377.48
+$12.18
+43
+Arizona
+Phoenix
+$374.16
+$12.07
+44
+Indiana
+Indianapolis
+$373.53
+$12.05
+45
+Idaho
+Boise
+$372.54
+$12.02
+46
+Mississippi
+Jackson
+$356.53
+$11.50
+47
+Iowa
+Des Moines
+$350.12
+$11.29
+48
+Arkansas
+Little Rock
+$348.34
+$11.24
+49
+Wyoming
+Cheyenne
+$340.21
+$10.97
+50
+Virginia
+Virginia Beach
+$331.53
+$10.69
+51
+West Virginia
+Charleston
+$327.37
+$10.56
+Monthly Food Costs by State
+As can be seen, the amounts vary based on location, and are approximates. If a community feels that another figure, based on the parameters mentioned in this fatwa, better suits their particular locality, they may adjust accordingly. For example, they may look up the value for their locality from the Numbeo website.
+However, the Fiqh Council does not see a problem with using a national average across the United States. Based on data from Numbeo, this would be $13.98 as accessed on February 19, 2025, which we have rounded up to $15.
+DETAILS OF ZAKĀT AL-FIṬR
+Zakāt al-fiṭr, also called ṣadaqat al-fiṭr, is an obligatory charitable payment given at the end of Ramaḍān.
+The zakāt al-fiṭr amount is generally considered to be one
+ṣāʻ
+of staple food based on a narration of the Prophet ﷺ.
+5
+As a volumetric measure, a
+ṣāʻ
+of food will translate into different weights depending on the item of food, and then each item of food can be converted into an associated retail dollar cost.
+Food Item
+Weight
+6
+U.S. Retail Cost
+7
+Rice
+5.4 pounds
+$4.64
+Wheat flour
+4 pounds
+$3.52
+Pasta
+2.2 pounds
+$2.93
+Oats
+2.43 pounds
+$3.26
+Dates
+4.63 pounds
+$18.61
+Barley
+3.53 pounds
+8
+$3.11
+Ṣā
+ʻ
+of Food Items to Dollar Cost
+As can be seen, the amount can vary greatly based on the specific food item selected. Further variation can be found based on the specific location. Even greater variation can be found if the volumetric amount is first converted into a weight without considering the specific food item (not taking into consideration that different food items have different densities), and then the specific food item is selected to convert into a cost.
+If we were to approximate based on a blended average of staple food items in the United States, the zakāt al-fiṭr amount would be more than five dollars, but because of the large variation in price (e.g. the high price for dates), we encourage Muslims to increase the amount to $10 out of caution.
+9
+Prepared by Sh. Umer Khan and Dr. Yasir Qadhi, approved by the Fiqh Council of North America
+The Ḥanafīs also supported the opinion of two meals per day, which is also fine.
+↩︎
+الموسوعة الفقهية ج ٣٢ ص ٦٧
+https://shamela.ws/book/11430/20217
+↩︎
+https://www.numbeo.com/food-prices/country_result.jsp?country=United+States
+↩︎
+https://simple.wikipedia.org/wiki/List_of_U.S._states%27_largest_cities
+↩︎
+https://hadithprophet.com/hadith-32363.html
+↩︎
+https://unity1.store/2015/07/16/a-fatwa-on-zakat-al-fitr-and-food-banks-in-the-uk/
+↩︎
+https://www.selinawamucii.com/insights/prices/united-states-of-america/
+↩︎
+https://www.bakkah.net/en/zakat-fitr-measurements-saa-three-litres-mudd.htm
+↩︎
+This would also be roughly equivalent to the Ḥanafī “two meals” opinion.
+↩︎

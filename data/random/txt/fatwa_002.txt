@@ -1,0 +1,51 @@
+What is the Islamic ruling on investing in stocks?
+
+All praise is due to Allāh ﷻ, and may peace and salutations be upon the Prophet ﷺ.
+Fundamental Rulings Related to Investing in Joint-Stock Companies
+Public joint-stock companies, for the purposes of Islamic jurisprudence, are treated as
+shirkah al-ʻinān
+, and are therefore subject to the same rulings. A share represents an undivided share in the capital of a corporation, just as it represents an undivided share in its assets and its associated rights, once the capital is converted into tangible items, benefits, rights, debts and so on.
+Shares are of two types – common shares and preferred shares. Common shares participate in both profit and loss and are permissible. Preferred shares participate only in profit and do not bear loss, and they are impermissible.
+Shares may be purchased for capital appreciation, which is where someone intends to buy and sell shares with the primary intent to benefit from the difference in price. Or, the investor’s primary intent may be to benefit from distribution of profits such as dividends. The rules mentioned in this Fatwā will apply to both.
+Shares may be sold as a spot trade, where the trade takes place immediately, with the intention of taking delivery of the underlying shares immediately, and this is permissible. However, trading on margin (borrowing money to carry out purchases), short selling (borrowing shares to sell them, with the goal to purchase them at a lower price in the future), stock options, futures contracts, forward contracts, and other types of derivatives are not permissible. These types of sales include elements of interest (
+ribā
+), impermissible uncertainty (
+gharar
+), gambling (
+qimār
+), and other impermissible elements, such as “selling that which you do not own”. Another impermissible transaction is lending (
+iqrāḍ
+) or leasing (
+ījār
+) shares for a fee, as the underlying assets of a share do not align with the rulings of these contracts.
+The fact that companies may hold cash or debt as a part of their assets generally does not affect the permissibility of buying and selling shares, as these are secondary activities. The primary activity involves the tangible and intangible assets of the business, and the benefits associated with those. Secondary elements follow the rulings of the primary ones and do not have their own rulings. However, if all the assets of the company become debts, then the rulings of selling debts must be adhered to. Similarly, if all the assets of the company become cash, as may be the case when starting a business, the rules for currency exchange must be followed.
+Joint-stock companies may fall into one of three categories:
+Permissible companies:
+These are companies whose objectives and activities are entirely lawful, so their shares are permissible.
+Forbidden companies:
+These are companies whose objectives and activities are unlawful, and their shares cannot be dealt with at all.
+Mixed companies:
+These are companies whose primary objectives and activities are lawful, but they engage in some unlawful activities, and these will be discussed in the next section.
+Rulings of Investing in Mixed Companies
+The default ruling of dealing in the shares of mixed companies is prohibition, as decided by the International Islamic Fiqh Academy and the Islamic Fiqh Council of the Muslim World League. As an example, if a person buys such shares without knowing that the company deals in interest (
+ribā
+), then learns of it, they must divest from it. This is because the Qur’ān and Sunnah prohibit interest, and knowingly buying shares in such companies implies participation in dealing with interest.
+The Shariah Board of the Accounting and Auditing Organization for Islamic Financial Institutions (AAOIFI) has ruled an exception to this prohibition under certain conditions:
+The company’s articles and bylaws should not state its objectives to be for unlawful purposes or activities.
+The majority of the company’s transactions should be lawful, with the unlawful transactions being minimal and remaining forbidden, as indicated by the following conditions:
+a) The amount borrowed on interest should not exceed 30% of the company’s market value.
+b) The amount deposited earning interest should not exceed 30% of the company’s market value.
+c) The revenue from unlawful transactions, such as interest earned and money received from forbidden sales, should not exceed 5% of the company’s total revenue.
+The shareholder must purify their ownership in these shares by disposing of the portion of the unlawful revenue, whether the company made profits or not, and whether it distributed profits or not. The unlawful revenue per share is calculated by dividing the unlawful revenue by the number of shares of the company’s capital, as shown in the latest financial statements of the company. The unlawful revenue that appears in the financial statements for the period of dealing must be disposed of, regardless of its amount, by whoever owns the share at the end of the period. If the share is sold before that, the seller is not required to dispose of the unlawful revenue. The unlawful revenue is to be disposed of by giving it away as charity without expectation of reward.
+Opinion:
+The Fiqh Council concluded that it is permissible to deal in the shares of mixed companies by way of exception, under the following conditions:
+The company’s main activity should not be impermissible, such as dealing with alcohol, gambling, pork products, conventional financial services (bank, insurance, etc), pornography, etc.
+The company’s interest-bearing loans must be less than 30% of the company’s market value.
+The company’s interest-bearing deposits must be less than 30% of the company’s market value.
+The company’s unlawful income from forbidden sales and interest and should not exceed 5% of the company’s total revenue.
+Transactions should be limited to common shares only, and not preferred shares.
+Transactions should be limited to spot trading of the actual shares only. Contracts for Differences (CFDs), margin trading, short selling, futures, forwards, options, and other derivatives are not permissible. The shareholder must purify the unlawful income for the number of days the share was owned. Unlike the AAOIFI standard, which requires purification only if the share is owned at the time of issuance of financial statements, our council has determined that purification is required by whoever owned the share at any time during the financial period, prorating and disposing of the unlawful revenue per share based on the number of days of ownership.
+The latest available financial statements of the company should be used to apply these rulings.
+And Allāh ﷻ knows best.
+Prepared by Dr. Abdulbari Mashal and Sh. Umer Khan, approved by the Fiqh Council of North America
+Download as PDF
