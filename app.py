@@ -11,7 +11,7 @@ from datetime import datetime
 # ----------------------------
 st.set_page_config(
     page_title="HalalBot",
-    page_icon="images/halalbot_favicon.ico",
+    page_icon="static/halalbot_favicon.ico",
     layout="centered"
 )
 
@@ -186,7 +186,7 @@ def show_admin_dashboard():
 # Main UI
 # ----------------------------
 def show_main():
-    st.image("images/halalbot_logo.png", width=200)
+    st.image("static/halalbot_logo.png", width=200)
     st.title("HalalBot Alpha")
     st.caption("Qur’an & Hadith AI Assistant (Local RAG) – *Alpha v0.2*")
     st.markdown("""
